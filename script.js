@@ -7,8 +7,6 @@ let contactIcon = document.querySelector("div.content i");
 let bottomDiv = document.querySelector("div.bottom");
 let contentDiv = document.querySelector("div.content");
 
-console.log(allIconsCircle);
-
 function viewContacts() {
   avatarContainer.style.position = "absolute";
   avatarContainer.style.top = "152px";
